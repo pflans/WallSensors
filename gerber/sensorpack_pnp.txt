@@ -1,0 +1,34 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=sensorpack
+*Date=15:20:25
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;17.9832;-14.4345;0;Bottom;Via2
+2;;;74.3273;-2.99263;0;Bottom;Hole2
+3;1k;THT;70.0001;-21.8738;90;Bottom;R3
+4;1k;THT;61.9252;-21.8738;90;Bottom;R1
+5;;;3.20733;-2.99263;0;Bottom;Hole4
+6;;;3.50517;-41.4261;0;Bottom;Hole3
+7;;;12.8578;-38.2263;-90;Bottom;RHT1
+8;;;64.7073;-38.1954;-90;Bottom;RHT3
+9;;;37.7952;-21.7937;0;Bottom;Part1
+10;;;64.694;-5.29575;90;Bottom;RHT4
+11;;;6.50046;-22.248;-90;Bottom;TXT2
+12;;;74.6251;-41.4261;0;Bottom;Hole1
+13;;;12.8634;-5.26612;90;Bottom;RHT2
+14;;;4.44936;-22.2118;-90;Bottom;TXT1
+15;;;20.4216;-19.9208;0;Bottom;Via1
+16;1k;THT;74.0816;-21.8738;90;Bottom;R4
+17;;DIP (Dual Inline) [THT];17.1647;-20.8521;180;Bottom;Breakout Board1
+18;1k;THT;66.0013;-21.8738;90;Bottom;R2
+19;;;17.3736;-33.9416;0;Bottom;Via3
